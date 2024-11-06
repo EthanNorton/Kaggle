@@ -29,3 +29,4 @@ This is a great beginner project to learn:
 - Feature engineering
 - Machine learning model training
 - Model evaluation and prediction
+    - Choosing and evaluating various models 
